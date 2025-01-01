@@ -1,0 +1,8 @@
+echo "# gkcg" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ferhh66565hhuh/gkcg.git
+git push -u origin main
+warp://p1@ml.amirhosseingoodarzi.ir:14456/?ifp=30-40&ifps=40-50&ifpd=50-60&ifpm=m4#b1&&detour=warp://p2@ml.amirhosseingoodarzi.ir:14456/?ifp=30-40&ifps=40-50&ifpd=50-60&ifpm=m4#b2
