@@ -5,4 +5,4 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/ferhh66565hhuh/gkcg.git
 git push -u origin main
-warp://ml.amirhosseingoodarzi.ir:14456/?ifp=30-40&ifps=40-50&ifpd=50-60&ifpm=m4#b1&&detour=warp://ml.amirhosseingoodarzi.ir:14456/?ifp=30-40&ifps=40-50&ifpd=50-60&ifpm=m4#b2
+warp://ml.amirhosseingoodarzi.ir:14456?ifp=30-40&ifps=40-50&ifpd=50-60&ifpm=m4#b1&&detour=warp://ml.amirhosseingoodarzi.ir:14456?ifp=30-40&ifps=40-50&ifpd=50-60&ifpm=m4#b2
